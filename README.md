@@ -4,11 +4,14 @@ Phi Weekend Three Live Solve
 
 Server side calculator
 ----
-[]Spin JEN stack app:
-[]node express and jQ
-[]serving html file ('/' get URL)
+Spin JEN stack app:
+
+- [x]node express
+- [ ] jQ
+- [x]serving html file ('/' get URL)
 []w/ sourced js file
 []test JQuery is working
+- [ ] body-parser for POST
 []POST route with '/math' test
 
 -=PRESENTATIONS/LUNCH=-
@@ -33,3 +36,5 @@ client
 ----
 []receive answer
 []display on the DOM
+
+[ ] clear button

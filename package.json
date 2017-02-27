@@ -1,0 +1,30 @@
+{
+  "name": "weekend-three-live-solve",
+  "version": "1.0.0",
+  "description": "live solve for weekend three for phi cohort",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node server/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LoPan455/weekend-three-live-solve.git"
+  },
+  "keywords": [
+    "phi",
+    "jquery",
+    "node",
+    "express"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LoPan455/weekend-three-live-solve/issues"
+  },
+  "homepage": "https://github.com/LoPan455/weekend-three-live-solve#readme",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1"
+  }
+}
