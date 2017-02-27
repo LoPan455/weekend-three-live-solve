@@ -9,9 +9,9 @@ Spin JEN stack app:
 - [x]node express
 - [ ] jQ
 - [x]serving html file ('/' get URL)
-[]w/ sourced js file
-[]test JQuery is working
-- [ ] body-parser for POST
+- [ ]w/ sourced js file
+- [ ]test JQuery is working
+- [x] body-parser for POST
 []POST route with '/math' test
 
 -=PRESENTATIONS/LUNCH=-
@@ -19,10 +19,11 @@ Spin JEN stack app:
 
 client:
 -----
-[]Inputs for two numbers
-[]buttons for mathematical operator
-[]'calculate' buttons
-[]package input and send to Server
+- [x]Inputs for two numbers
+- [x]buttons for mathematical operator
+- [x]'calculate' buttons
+- [ ]package input
+- [ ] send to Server
 
 
 server:
